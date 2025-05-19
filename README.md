@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/freelancerdaud"><img src="https://github-profile-trophy.vercel.app/?username=freelancerdaud" alt="freelancerdaud" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/freelancerdaud" target="blank"><img src="https://img.shields.io/twitter/follow/freelancerdaud?logo=twitter&style=for-the-badge" alt="freelancerdaud" /></a> </p>
+<p align="left"> <a href="https://twitter.com/freelancerdaudbd" target="blank"><img src="https://img.shields.io/twitter/follow/freelancerdaud?logo=twitter&style=for-the-badge" alt="freelancerdaud" /></a> </p>
 
 - 🔭 I’m currently working on [Rajbari IT](https://www.rajbariit.com)
 
