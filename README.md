@@ -54,7 +54,7 @@
 <a href="https://codeforces.com/profile/freelancerdaud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="freelancerdaud" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/freelancerdaud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="freelancerdaud" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/freelancerdaud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="freelancerdaud" height="30" width="40" /></a>
-</br>
+<hr>
 <a href="https://auth.geeksforgeeks.org/user/freelancerdaud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="freelancerdaud" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/freelancerdaud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="freelancerdaud" height="30" width="40" /></a>
 <a href="https://discord.gg/freelancerdaud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="freelancerdaud" height="30" width="40" /></a>
