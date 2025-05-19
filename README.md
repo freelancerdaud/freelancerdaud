@@ -76,8 +76,10 @@
 <hr>
 <p><a href="https://www.buymeacoffee.com/freelancerdaud"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="freelancerdaud" /></a><a href="https://ko-fi.com/freelancerdaud"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="freelancerdaud" /></a></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=freelancerdaud&show_icons=true&locale=en&layout=compact" alt="freelancerdaud" /></p> <br><br><br><br><br><br><br><br><br><br>
+<h3 align="left">Analytics:</h3>
+<hr>
 
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=freelancerdaud&show_icons=true&locale=en&layout=compact" alt="freelancerdaud" /></p> <br><br><br><br><br><br><br><br><br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=freelancerdaud&show_icons=true&locale=en" alt="freelancerdaud" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=freelancerdaud&" alt="freelancerdaud" /></p>
 
