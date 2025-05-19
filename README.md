@@ -31,6 +31,8 @@
 
 ### Blogs posts
 <hr>
+
+<img src="https://fdimage.netlify.app/Coming_soon.png" />
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
